@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EnguerrandVancottem
+- 👀 I’m interested in web development, design, ...
+- 🌱 I’m currently learning tailwindcss, react, nodejs
+- 📫 How to reach me at info@enguerrandvancottem.be
